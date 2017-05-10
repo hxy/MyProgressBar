@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyProgressBar">
+        <attr name="achievedHeight" format="dimension"/>
+        <attr name="noachievedHeight" format="dimension"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="percent" format="integer"/>
+        <attr name="achievedColor" format="color"/>
+        <attr name="noachievedColor" format="color"/>
+        <attr name="textColor" format="color"/>
+    </declare-styleable>
+</resources>
